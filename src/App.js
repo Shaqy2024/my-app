@@ -38,7 +38,7 @@ const App = () => {
 
 
   return (
-    <div className='bg-[#212121]  text-white  h-auto flex flex-col justify-start items-center px-4 py-5 '>
+    <div>
 
       <RouterProvider router={router} />
     
